@@ -1,0 +1,9 @@
+Hernan;atrapar;mew
+Enzo;atrapar;charizard
+Ignacio;atrapar;pikachu
+Fernando;atrapar;mewtwo
+Fernando;liberar;
+Florencia;atrapar;entei
+Benjamin;atrapar;moltres
+Florencia;atrapar;zapdos
+Florencia;liberar;

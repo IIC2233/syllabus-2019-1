@@ -1,0 +1,302 @@
+Daniel Basilio;Acuña
+Tomas Joaquin;Alvarez
+Felipe Javier;Álvarez
+Martín Alejandro;Aracena
+Sebastián Ignacio;Arancibia
+Jorge Alejandro;Araneda
+Diego Benjamín;Araus
+Francisco Javier;Arce
+Clarita;Arnolds
+Sebastián Andrés;Arriagada
+Vicente Ignacio;Arriagada
+Mayron Francisco;Barahona
+Renata Paz;Barrera
+Sebastian Andres;Barrios
+Carlos Andres;Bendek
+Tamara;Bendersky
+Kyle;Bossonney
+Alvaro Gabriel;Bravo
+Franco Esteban;Carmona
+Nicolás Eduardo;Carrizo
+Tomas Emilio;Castro
+Valentina;Coello
+Micaela Guadalupe;Consolo
+Nicolás Agustín;Contreras
+Nicolás Elias;Cornejo
+Juan Pablo;Correa
+Francisca Daniela;De La Barra
+Ignacio Andres;Diaz
+Nicolás;Errázuriz
+Sebastián Joakin;Espejo
+Susana;Figueroa
+Diego Alonso;Gallardo
+Andres Ignacio;Garrido
+María José;Garrido
+Ivanna Belen;Giglio
+Horacio José;Grez
+Luis Felipe;Gutiérrez
+Nicolas Ignacio;Guzman
+Trinidad;Larraín
+Martín Andrés;Legues
+Benjamín Alejandro;Lepe
+Francisco Andres;Llull
+Ignacio Andrés;Loyola
+Jerry Anthon;Mendoza
+Vicente Arturo;Merani
+Vicente Alejandro;Merino
+Sebastián;Mitjans
+Martín Andrés;Moreno
+Thomas Harald;Neckelmann
+Felipe Alejandro;Nuñez
+Martín Felipe;Ocqueteau
+Juan Pablo;Olivares
+Eduardo Tomás;Oteiza
+Vicente Ignacio;Perez
+Florencia Belen;Pesenti
+Matias Alonso;Piña
+Javiera Belén;Puebla
+Sofía Magdalena;Rebolledo
+Felipe;Rodríguez
+Sylvana Isidora;Rubilar
+Francisco Alfonso;Ruiz
+Joaquín Augusto;Santa María
+Hernan Felipe;Sazo
+Thomas;Schilling
+Rolf;Sommer
+Antonia Belén;Soto
+Maria Paz;Subiabre
+Cristobal Antonio;Torres
+Benjamin Andres;Urrutia
+Ariela Simonnet;Valenzuela
+Allan David;Wurmann
+Juan Jose;Zapata
+Paulina Del Carmen;Zavala
+Francisco Andrés;Zorrilla
+Pablo;Zurita
+Guillermo José;Achondo
+Matías Esteban;Aedo
+Joaquín;Alliende
+Richard Marcelo;Astudillo
+Bastian Ignacio;Baez
+Fernando Ignacio;Balladares
+Gustavo Adolfo;Barrezueta
+Pascual;Bengoa
+Agustín;Berguecio
+Joaquín;Bisquertt
+Felipe;Campbell
+Ignacio;Campusano
+Diego Belisario;Canales
+Felipe Ignacio;Carrasco
+Vicente Javier;Castro
+Gabriel Ignacio;Catalan
+Cristian Enrique;Cepeda
+Geraldine Valentina;Cespedes
+Nelson Daniel;Contreras
+Alicia Valentina;Córdova
+Nataniel Pascual;Cox
+Pablo;Dabovich
+Fabián Esteban;Díaz
+Karla Josefa;Díaz
+David Felipe;Diaz
+Deborah Milli;Elberg
+Agustín Nicolás;Errázuriz
+María Josefa;Espinoza
+Florencia;Gaido
+Julián Manuel;García
+Manuel Ignacio;Gil
+Luis Alejandro;González
+Bastian Matias;Gonzalez
+Rocio Belen;Hernandez
+Juan Cristóbal;Hernández
+Byron Andrés;Hidalgo
+Fernando Javier;Huanca
+José Tomás;Jiménez
+José Tomás;Joglar
+Sebastian Mathias;Kullak
+Constanza Gabriela;Kuschel
+Pablo Alfredo;Lagos
+Patricio Vicente;Lecaros
+Sebastián Ignacio;León
+Macarena Sofia;Maggi
+Nicolás Kato;Lewin
+Felipe Pablo;Lois
+Pablo Ignacio;Lorca
+Natacha Oriana;Piña
+Nelson Ignacio;Marabolí
+Tomás Andrés;Marín
+José Tomás;Márquez
+Matías Tomás;Martínez
+Ricardo Benjamín;Meza
+Pablo;Molina
+Amelia Maria;Muzzo
+Jairo Ezequiel;Navarro
+Nicolas Baltazar;Navarro
+Javiera Ignacia;Ochoa
+Carlos Andrés;Olivos
+Matías;Oportus
+Nicolás Rodrigo;Páez
+Bartolomé;Peirano
+Natacha Oriana;Piña
+Edison Esteban;Pizarro
+Ignacio Alberto;Rojas
+José Miguel;Rojas
+Marcela Antonia;Soto
+Tomás;Soublette
+Carolina Paz;Stuardo
+Joaquin Ignacio;Terreros
+José Antonio;Tort
+Bernardo Agustín;Valdivieso
+Tomás Andrés;Valenzuela
+Borja;Vallejo
+Cristóbal;Welch
+Ignacio Antonio;Aguilera
+Manuel Ignacio;Altamirano
+Luis Alberto;Arias
+Joaquín Aníbal Andrés;Baltra
+Matías Cristian;Barra
+Sebastián Matías;Barraza
+Martin Nicolas;Benimeli
+Pablo;Brancoli
+Oren Yair;Brunman
+Diego Ignacio;Campusano
+Trinidad Paz;Carrasco
+Tomás;Concha
+Gonzalo Vicente;Correa
+José Tomás;Costa
+Carlos Andrés;Costa
+Joaquin Andres;Couyoumdjian
+Nicolás Andrés;Cruzat
+Valentina Ignacia;De Vidts
+Gabriela;Delgado
+Matías Ignacio;Díaz
+Patricio Alberto;Domínguez
+Uranía Selene;Donoso
+Tomás Andrés;Dubost
+Santiago Estanislao;Errázuriz
+José Tomás Andrés;Feliú
+Cristóbal Nicolás;Figueroa
+Lukas;Fuenzalida
+Mario Ignacio;Gómez
+Francisca Xaviera;Guerra
+Isidora;Hirmas
+Cristóbal;Jones
+Nicolás;Karlezi
+Ignacio Matías;Larraguibel
+Maximiliano Arturo;León
+Matías Iván;López
+Gustavo Antonio;Luzzi
+Maite Filomena;Madalosso
+Cristóbal;Márquez
+Romina Fernanda;Mercado
+Martín Andrés;Meza
+Cristóbal;Mitjans
+Sergio Gabriel;Morales
+Esteban Daniel;Morales
+Rosita Estefania Soledad;Muñoz
+Brian Agustín;Murtagh
+Mario Andres;Ogaz
+Nicolas Alexander;Ogaz
+Constanza Alejandra;Olate
+Nicolás Hernán;Orellana
+Miguel Ignacio;Ortiz
+Macarena Fernanda;Paez
+Jairo Brayan;Pinto
+Alan Christian;Popper
+Luis Alejandro;Pozas
+Valeria Sofía;Riquelme
+Domingo José;Rojas
+Alon Menahem;Rosenblum
+Brayan Josúe;Ruano
+Amaranta Flavia;Salas
+Sebastian Andres;San Martin
+Sebastián Andrés;Silva
+Claudio Andrés;Toledo
+Jorge Ignacio;Toro
+Vicente;Tuñón
+Patricia Margarita;Valenzuela
+Felipe Antonio;Valle
+Eduardo Alfonso;Vásquez
+Martín;Verdugo
+Matías Eduardo;Vergara
+Juan José;Verschueren
+Roberto Sergio;Vidal
+Ignacio Álvaro;Winter
+Tatsuya Markos;Yamaguchi
+Lucas;Zalaquett
+Frederik Heinrich;Zilcher
+Maureen Maremaa;Davanzo
+Brian Ignacio;Aguilera
+Pablo Hernán;Araneda
+Mauricio Eduardo;Berrios
+Joaquin Antonio;Bijit
+Joaquín Alejandro;Burgos
+Ariel Alejandro;Camhi
+Diego Ariel;Campos
+Tomas Pedro;Cantergiani
+Diego Ernesto;Castelli
+Matías Ignacio Nibaldo;Cea
+Paulina Francisca;Collantes
+Juan Pablo;Contreras
+Constanza Antonia;Contreras
+Tomás Ignacio;Cortés
+Matías;Cox
+Francisco Javier;Croquevielle
+Sofía María;Délano
+Isidora Catalina;Donoso
+Eduardo Ignacio;Echeverría
+Agustin;Escobar
+Sofía Irina;Escobedo
+José Tomás;Farías
+Cristian Alejandro;Fazio
+Josefina;Fernández
+Elisa;Fernández
+Mario Enrique;Fernández
+Sebastian Matias;Fontalva
+Matías Alfredo;Freyre
+Fernando Ignacio;García
+Vicente;González
+Tomás Andrés;González
+Federico Antonio;Hurtado
+Javiera;Irarrázabal
+Daniel José;Isaac
+Alberto Assai;Jara
+Valentina Clio;Lagos
+José Antonio;Laguna
+Diego Avelino;León
+Christian Andrés;Luer
+María Belén;Madariaga
+José Ignacio;Mandujano
+Santiago;Matus
+Enrique Alberto;Mena
+Manuel Ignacio;Muñoz
+Joaquín Andrés;Muñoz
+Isabel;Muñoz
+Cristóbal Rodrigo;Muñoz
+Maximiliano Agustín;Narea
+Alejandro Javier;Nash
+Rodrigo Ignacio;Norambuena
+Karina Paz;Núñez
+Raimundo Javier;Orellana
+María Francisca;Otero
+Benjamín;Pardo
+Vicente Andrés;Pérez
+Valentina;Pérez
+Matías Andrés;Pérez
+Mauricio Esteban;Pinto
+Tomás Eduardo;Riquelme
+Andrés;Rodríguez
+Nicolás Roberto;Rosenberg
+Javiera Belén;Saavedra
+José Miguel;Saenz
+Vicente Bernardo;Sánchez
+Caua;Santiago-Paz
+Maximiliano Rodolfo;Schudeck
+Nicolás Andrés;Schwend
+Clemente;Sepúlveda
+Piero Stefano;Tassara
+Ana María;Undurraga
+Florencia Ignacia;Valdivia
+Cristóbal Ignacio;Vargas
+Sergio Andrés;Villagrán
+Diego Amaro;Zamora
+Ignacio Andrés;Zúñiga
