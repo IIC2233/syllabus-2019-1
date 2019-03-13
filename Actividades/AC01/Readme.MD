@@ -9,9 +9,9 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K201 01-C**|snarriagada|Sebastián Andrés Arriagada|
 |**K201 01-D**|ticastro|Tomas Emilio Castro|
 |**K201 01-E**|mamoreno4|Martín Andrés Moreno|
-|**K201 01-H**|agbravo|Alvaro Gabriel Bravo|
+|**K201 01-H**|etoteiza|Eduardo Tomás Oteiza|
 |**K201 01-I**|rsommer1|Rolf Sommer|
-|**K201 01-J**|etoteiza|Eduardo Tomás Oteiza|
+|**K201 01-J**|agbravo|Alvaro Gabriel Bravo|
 |**K201 01-K**|Conjo1|Nicolás Elias Cornejo|
 |**K201 01-L**|angelaparriana|Angela Parra|
 |**K201 01-M**|jasantamaria|Joaquín Augusto Santa María|
