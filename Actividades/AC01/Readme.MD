@@ -242,6 +242,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K203 08-B**|NatachaP|Natacha Oriana Piña|
 |**K203 08-C**|PDabovich|Pablo Dabovich|
 |**K203 08-D**|ameliamuzzo|Amelia Maria Muzzo|
+|**K203 08-E**|kmhaller|Karl Mathias Haller|
 |**CS203 01-A**|javi-saavedra|Javiera Belén Saavedra|
 |**CS203 01-B**|vperez2|Valentina Pérez|
 |**CS203 01-C**|juanpacl111|Juan Pablo Contreras|
