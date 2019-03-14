@@ -82,6 +82,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K201 07-L**|Tomasalvarez15|Tomas Joaquin Alvarez|
 |**K201 07-M**|tamarabend|Tamara Bendersky|
 |**K201 08-A**|Oisangui|Ignacio Andrés Loyola|
+|**K201 08-B**|sabarrios|Sebastian Andres Barrios|
 |**K202 01-A**|Naogaz|Nicolas Alexander Ogaz|
 |**K202 01-B**|mnbenimeli|Martin Nicolas Benimeli|
 |**K202 01-C**|GustavoLuzzi|Gustavo Antonio Luzzi|
@@ -161,6 +162,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K202 07-M**|martucoss|Martín Andrés Meza|
 |**K202 08-A**|inaguilera|Ignacio Antonio Aguilera|
 |**K202 08-B**|acpopper|Alan Christian Popper|
+|**K202 08-C**|cambrinKD|Cambrin Kemble-Diaz|
 |**K203 01-A**|jznavarro|Jairo Ezequiel Navarro|
 |**K203 01-B**|jotanavarrete|Javier Navarrete|
 |**K203 01-C**|dmelberg|Deborah Milli Elberg|
@@ -317,3 +319,4 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**CS203 06-F**|vclagos|Valentina Clio Lagos|
 |**CS203 06-G**|Josefariass|José Tomás Farías|
 |**CS203 06-J**|Bpardobravo|Benjamín Pardo|
+|**CS203 06-K**|mcox5 |Matías Cox|
