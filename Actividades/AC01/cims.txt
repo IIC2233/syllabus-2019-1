@@ -1,0 +1,100 @@
+0,Enzo Tamburini,23,carisma;programación;guitarra;ayudante de avanzada
+1,Daniela Concha,21,jardinería;fotografía;piano;programación;cocina
+2,Pablo Olea,7,ejercicio físico;programación;ayudante de avanzada
+3,Dante Pinto,20,hebreo;latín;escribir antes de leer
+4,Justin Williams,48,pesca
+5,Julie Love,26,ciencia espacial;canto
+6,Brandi Jones,42,videojuegos;baile
+7,Alexander Rogers,5,carisma;actuación;escritura
+8,Rita Hill,64,ciencia espacial;coctelería;piano
+9,James Fowler,15,lógica;pintura
+10,Bradley Lopez,76,comedia;pesca;videojuegos
+11,Melissa Sutton,17,comedia;jardinería;programación;ejercicio físico
+12,Kevin Freeman,3,destreza manual;pintura;ayudante de avanzada;carisma
+13,Alan Horne,39,carisma
+14,Jennifer Mitchell,72,pillería;carisma;escritura
+15,Kyle Mclean,77,cocina;videojuegos;baile;piano
+16,Robert Martinez,31,violín
+17,Janet Velez,71,jardinería;programación
+18,Tristan Livingston,36,ayudante de avanzada
+19,Matthew Nelson,22,ejercicio físico;pintura;baile;piano
+20,Gail Hoover,29,cocina
+21,Lindsey Carter,23,coctelería;ayudante de avanzada
+22,Jenna Williamson,45,carisma;jardinería;violín;baile
+23,Casey Sexton,7,cocina;piano
+24,Kimberly King,60,destreza manual;lógica;coctelería;actuación
+25,Ethan Allen,79,lógica;pillería;actuación;guitarra;destreza manual
+26,Alexandria Stone,51,pillería;fotografía;guitarra
+27,Caleb Ortiz,76,destreza manual;comedia
+28,Justin Lee,51,carisma;ciencia espacial;videojuegos
+29,Heather Kelly,45,videojuegos;actuación;carisma;canto;destreza manual
+30,Christina Ross,70,violín;actuación;pesca;ejercicio físico;escritura
+31,Lisa Adams,48,fotografía;comedia;pillería;canto;escritura
+32,Thomas Roberts,30,canto;cocina;actuación
+33,Kerry Huynh,72,violín;pesca;actuación
+34,Jessica Brown,25,ejercicio físico;violín;piano
+35,Sean Johnson,23,destreza manual;lógica;pintura;programación
+36,Nicole Roberts,12,jardinería
+37,Rita Stevens,50,fotografía;pillería;programación;canto;cocina
+38,David Jones,35,lógica;piano
+39,Rachel Garza,31,comedia;pesca
+40,Thomas Henderson,32,jardinería;coctelería;fotografía
+41,Timothy Brooks,76,comedia;canto;escritura;actuación
+42,Chelsea Bush,72,ejercicio físico;pintura;jardinería;violín
+43,Kimberly Diaz,38,carisma;pesca
+44,April Singh,12,comedia;pillería;cocina;ejercicio físico
+45,Sarah Jones,79,carisma;piano
+46,Joshua Johnson,37,ayudante de avanzada
+47,Ana Williams,7,ayudante de avanzada
+48,Rachel Brown,52,ciencia espacial
+49,Charles Peters,60,piano
+50,Brandon Harrington,43,programación;cocina;baile
+51,Amanda May,15,canto;cocina
+52,Kathleen Stein,39,violín
+53,Robert Zhang,42,destreza manual;violín
+54,Kevin Cunningham,51,ciencia espacial;canto
+55,Joyce Fletcher,57,ciencia espacial;guitarra
+56,Erika Frazier,48,comedia;jardinería;programación
+57,Alfred Simon,57,comedia;carisma;pintura;pillería
+58,Lorraine Garcia,8,ciencia espacial;canto;ayudante de avanzada
+59,Monica Barnes,17,pesca
+60,Seth Mullins,39,violín
+61,Ashley Williamson,1,ciencia espacial;violín;guitarra
+62,Rebecca Stanton,51,escritura
+63,Lisa Gay,3,ejercicio físico
+64,Gregory Ross,71,guitarra
+65,Ashley Alvarado,19,pintura;guitarra
+66,Anne Campbell,51,destreza manual;fotografía;canto;actuación
+67,Megan Brown,57,violín;guitarra
+68,Tracie Rios,15,ciencia espacial;cocina
+69,Daniel Fletcher,54,fotografía;violín;videojuegos
+70,Angela Davis,77,pillería;lógica;coctelería;guitarra;piano
+71,Barbara Bailey,70,baile;ayudante de avanzada;actuación;pintura;canto
+72,Jonathan Zimmerman,50,ayudante de avanzada;lógica;violín;pesca;destreza manual
+73,Elizabeth Lin,21,comedia
+74,Brandon Reeves,61,destreza manual;jardinería;violín;canto
+75,Adam Perez,44,lógica
+76,Roger Bates,58,destreza manual;pesca;coctelería;canto
+77,Jason Rivera,9,destreza manual;carisma
+78,Brian Johnson,40,pillería;pesca;piano
+79,Amanda Wong,77,programación
+80,Elizabeth Foster,21,piano
+81,Mrs. Mary Davies,43,ejercicio físico;videojuegos
+82,William Cardenas,78,destreza manual;comedia;guitarra
+83,Valerie White,14,jardinería;videojuegos
+84,Vicki Lindsey,61,comedia;videojuegos;ciencia espacial;canto;cocina
+85,Eric Zimmerman,75,destreza manual;programación;videojuegos;pintura;ejercicio físico
+86,Brianna Green,11,destreza manual;pintura;actuación;escritura
+87,Rachel Johnson,45,pillería
+88,Jonathan Perez,24,escritura
+89,Olivia Dunn,30,pillería;programación;violín;baile
+90,Michael Ryan,52,ciencia espacial;baile;fotografía
+91,Jennifer Boyd,55,pintura;coctelería
+92,Darren Turner,3,comedia;pillería;baile;ejercicio físico
+93,Tyler Lewis,60,ciencia espacial
+94,Shannon Washington,73,jardinería;piano
+95,Linda Montgomery,70,coctelería
+96,Diana Boyd,66,piano
+97,Mark Pope,77,pillería;pesca;lógica
+98,Tyler Gonzalez,66,canto
+99,Amber Harmon,20,actuación;escritura
