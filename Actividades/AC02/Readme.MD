@@ -8,7 +8,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K201 01-B**|GbPoblete|Giselle Poblete|
 |**K201 01-C**|ticastro|Tomas Emilio Castro|
 |**K201 01-D**|t-schilling|Thomas Schilling|
-|**K201 01-E**|allanwur|Allan David Wurmann|
+|**K201 01-E**|etoteiza|Eduardo Tomás Oteiza|
 |**K201 01-H**|ssrubilar|Sylvana Isidora Rubilar|
 |**K201 01-I**|snarriagada|Sebastián Andrés Arriagada|
 |**K201 01-J**|Oisangui|Ignacio Andrés Loyola|
@@ -27,7 +27,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K201 02-L**|jearaneda|Jorge Alejandro Araneda|
 |**K201 02-M**|carnolds|Clarita Arnolds|
 |**K201 03-A**|rialonsom|Rodrigo Ignacio Alonso|
-|**K201 03-B**|etoteiza|Eduardo Tomás Oteiza|
+|**K201 03-B**|allanwur|Allan David Wurmann|
 |**K201 03-C**|siarancibia|Sebastián Ignacio Arancibia|
 |**K201 03-D**|pdzavala|Paulina Del Carmen Zavala|
 |**K201 03-E**|mfocqueteau|Martín Felipe Ocqueteau|
