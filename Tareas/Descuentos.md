@@ -44,7 +44,7 @@ Si no se indica(n) los archivos principales que son necesarios para ejecutar la 
 
 ## Uso de `.gitignore` (5 décimas) :hand: 
 
-El `.gitignore` es un archivo que permite indicar cuales archivos deben ser ignorados del repositorio, es decir, que no son detectados dentro de este al momento de querer hacer `git add ` Para más información visitar [este link](olab.research.google.com/drive/1AxyrI_U7gwFiI-x6RKI84Y7xLqNfOws8#scrollTo=uKtZE7BwcBvC).
+El `.gitignore` es un archivo que permite indicar cuales archivos deben ser ignorados del repositorio, es decir, que no son detectados dentro de este al momento de querer hacer `git add`. Para más información visitar [este link](olab.research.google.com/drive/1AxyrI_U7gwFiI-x6RKI84Y7xLqNfOws8#scrollTo=uKtZE7BwcBvC).
 
 Este descuento solo se aplica si en el enunciado de la tarea se especifica que **utilicen el `.gitignore`** o se indica que **no deben subir algún archivo en específico**. En caso de solicitar que usen el `.gitignore`, el descuento puede ser por uno de los 3 siguientes casos:
 - **5 décimas** si no está el `.gitignore` y sube las cosas de todos modos.
