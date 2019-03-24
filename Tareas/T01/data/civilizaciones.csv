@@ -1,0 +1,4 @@
+id,tipo,centro_urbano,cuartel,dccowork,muralla,trabajador,soldado,ayudante,oro,madera,piedra,puntos_de_tecnología,usuario
+0,Cobreloa,True,False,False,0,3,0,0,0,0,0,0,False
+1,Comarca,True,False,False,0,3,0,0,0,0,0,0,False
+2,DCC,True,False,False,0,3,0,0,0,0,0,0,False

@@ -1,0 +1,5 @@
+nombre,tiempo,c_trabajadores,c_oro,c_madera,c_piedra,hp,p_oro,p_madera,p_piedra
+centro_urbano,1,1,49,67,78,342,2,2,9
+cuartel,2,2,33,21,32,850,12,6,14
+muralla,3,3,71,50,69,384,0,0,0
+DCCowork,3,4,47,47,72,667,5,19,8
