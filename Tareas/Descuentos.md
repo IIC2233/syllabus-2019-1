@@ -40,6 +40,7 @@ Si no se indica(n) los archivos principales que son necesarios para ejecutar la 
 ## Formato de entrega (5 décimas) :inbox_tray: 
  1. Lenguaje vulgar (groserías) o inapropiado para el curso
  2. Nombres o extención de archivos no explícitos ni declarativos
+ 3. Utilizar _paths_ absolutos en una tarea en vez de _paths_ relativos. Revisar [Linuxnix: Paths](https://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/) y esta [lectura de paths](https://github.com/IIC2233-2016-1/syllabus/blob/master/Lecturas/Lectura_paths_2016-1.pdf).
 
 
 ## Uso de `.gitignore` (5 décimas) :hand: 
