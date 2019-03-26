@@ -7,7 +7,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K201 01-A**|franciscoruizardiles|Francisco Alfonso Ruiz|
 |**K201 01-B**|angelaparriana|Angela Parra|
 |**K201 01-C**|DiegoAraus|Diego Benjamín Araus|
-|**K201 01-D**|t-schilling|Thomas Schilling|
+|**K201 01-D**|etoteiza|Eduardo Tomás Oteiza|
 |**K201 01-E**|sabarrios|Sebastian Andres Barrios|
 |**K201 01-H**|niguzman|Nicolas Ignacio Guzman|
 |**K201 01-I**|snarriagada|Sebastián Andrés Arriagada|
@@ -46,7 +46,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K201 04-I**|rpbarrera|Renata Paz Barrera|
 |**K201 04-J**|mfbarahona|Mayron Francisco Barahona|
 |**K201 04-K**|legutierrez1|Luis Felipe Gutiérrez|
-|**K201 04-L**|etoteiza|Eduardo Tomás Oteiza|
+|**K201 04-L**|t-schilling|Thomas Schilling|
 |**K201 04-M**|ariela1|Ariela Simonnet Valenzuela|
 |**K201 05-A**|smrebolledo|Sofía Magdalena Rebolledo|
 |**K201 05-B**|carnolds|Clarita Arnolds|
