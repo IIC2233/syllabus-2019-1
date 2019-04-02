@@ -24,6 +24,9 @@
 1. Solo será aproximada la nota final NF. El resto de las notas serán usadas con dos decimales.
 1. Las notas de todas las evaluaciónes se publicarán en [esta planilla](https://docs.google.com/spreadsheets/d/1S2naGLsxqNCj9hqhTV7roZbYrbIpCXJrxCTnkpdK4rM/edit?usp=sharing). Solo se puede acceder con cuenta UC, no se dará acceso a ninguna otra cuenta.
 
+# Recorrección
+
+Para recorregir alguna actividad, deben responder el siguiente [formulario](https://forms.gle/fZiG6D2yheDJzQeWA)
 
 # Foro
 
