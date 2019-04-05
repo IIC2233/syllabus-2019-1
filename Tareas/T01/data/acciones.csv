@@ -170,7 +170,7 @@ turno,id_civilizacion,tipo_accion,input
 57,0,Construir edificio,DCCowork
 57,1,Construir edificio,DCCowork
 57,2,Atacar civilización,1
-58,0,Atacar civilización,0
+58,0,Atacar civilización,1
 58,1,Construir edificio,muralla
 58,2,Recolectar recurso,piedra;1
 59,0,Crear persona,trabajador;1
