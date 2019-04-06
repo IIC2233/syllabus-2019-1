@@ -25,10 +25,10 @@ turno,id_civilizacion,tipo_accion,input
 8,2,Recolectar recurso,piedra;13
 9,0,Crear persona,trabajador;12
 9,1,Crear persona,trabajador;17
-9,2,Construir edificio,DCCowork
+9,2,Construir edificio,dccowork
 10,0,Crear persona,trabajador;2
 10,1,Recolectar recurso,oro;17
-10,2,Construir edificio,DCCowork
+10,2,Construir edificio,dccowork
 11,0,Crear persona,trabajador;1
 11,1,Crear persona,trabajador;12
 11,2,Recolectar recurso,piedra;11
@@ -46,7 +46,7 @@ turno,id_civilizacion,tipo_accion,input
 15,2,Recolectar recurso,piedra;4
 16,0,Recolectar recurso,oro;4
 16,1,Crear persona,trabajador;21
-16,2,Construir edificio,DCCowork
+16,2,Construir edificio,dccowork
 17,0,Recolectar recurso,piedra;1
 17,1,Crear persona,trabajador;1
 17,2,Recolectar recurso,oro;2
@@ -93,7 +93,7 @@ turno,id_civilizacion,tipo_accion,input
 31,1,Crear persona,soldado;13
 31,2,Recolectar recurso,oro;27
 32,0,Recolectar recurso,piedra;6
-32,1,Construir edificio,DCCowork
+32,1,Construir edificio,dccowork
 32,2,Atacar civilización,0
 33,0,Crear persona,soldado;8
 33,1,Atacar civilización,0
@@ -105,7 +105,7 @@ turno,id_civilizacion,tipo_accion,input
 35,1,Crear persona,soldado;1
 35,2,Atacar civilización,0
 36,0,Crear persona,trabajador;46
-36,1,Construir edificio,DCCowork
+36,1,Construir edificio,dccowork
 36,2,Crear persona,soldado;82
 37,0,Crear persona,soldado;2
 37,1,Crear persona,trabajador;37
@@ -127,7 +127,7 @@ turno,id_civilizacion,tipo_accion,input
 42,2,Crear persona,ayudante;2
 43,0,Atacar civilización,0
 43,1,Atacar civilización,2
-43,2,Construir edificio,DCCowork
+43,2,Construir edificio,dccowork
 44,0,Atacar civilización,2
 44,1,Nada,
 44,2,Construir edificio,cuartel
@@ -142,7 +142,7 @@ turno,id_civilizacion,tipo_accion,input
 47,2,Recolectar recurso,madera;11
 48,0,Crear persona,trabajador;1
 48,1,Recolectar recurso,oro;16
-48,2,Construir edificio,DCCowork
+48,2,Construir edificio,dccowork
 49,0,Atacar civilización,2
 49,1,Recolectar recurso,madera;46
 49,2,Atacar civilización,1
@@ -164,11 +164,11 @@ turno,id_civilizacion,tipo_accion,input
 55,0,Crear persona,soldado;19
 55,1,Crear persona,soldado;81
 55,2,Recolectar recurso,madera;4
-56,0,Construir edificio,DCCowork
+56,0,Construir edificio,dccowork
 56,1,Construir edificio,muralla
 56,2,Recolectar recurso,piedra;5
-57,0,Construir edificio,DCCowork
-57,1,Construir edificio,DCCowork
+57,0,Construir edificio,dccowork
+57,1,Construir edificio,dccowork
 57,2,Atacar civilización,1
 58,0,Atacar civilización,1
 58,1,Construir edificio,muralla
