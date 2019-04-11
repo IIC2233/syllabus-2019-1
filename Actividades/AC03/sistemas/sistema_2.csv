@@ -1,0 +1,95 @@
+Generadora,6,1269,Valparaiso,Nogales,turbina eólica;Generador de Emergencia
+Distribuidora Regional,7,0,Los Ríos,Los Lagos,zona seca;construccion
+Distribuidora Regional,1,0,Magallanes,Antártica,construccion;zona seca
+Distribuidora Regional,2,0,Araucanía,Purén,construccion;zona seca
+Distribuidora Regional,0,0,Maule,Romeral,zona fría;zona seca
+Distribuidora Regional,5,0,Antofagasta,Calama,zona seca;zona fría
+Distribuidora Comunal,7,0,Araucanía,Cunco,zona rural;zona seca
+Distribuidora Comunal,8,0,Los Ríos,Corral,zona rural;zona seca
+Distribuidora Comunal,8,0,Maule,Romeral,zona seca;zona rural
+Distribuidora Comunal,4,0,Los Ríos,Mariquina,zona seca;zona rural
+Distribuidora Comunal,3,0,Antofagasta,Sierra Gorda,zona rural;zona seca
+Distribuidora Comunal,6,0,Magallanes,Primavera,zona seca;zona rural
+Distribuidora Comunal,9,0,Araucanía,Angol,zona seca;zona rural
+Distribuidora Comunal,8,0,Magallanes,Río Verde,zona seca;zona fría
+Distribuidora Comunal,9,0,Maule,Yerbas Buenas,zona fría;zona rural
+Distribuidora Comunal,2,0,Maule,Parral,zona rural;zona seca
+Distribuidora Comunal,2,0,Los Ríos,Valdivia,zona rural;zona fría
+Distribuidora Comunal,7,0,Araucanía,Lumaco,zona fría;zona rural
+Distribuidora Comunal,8,0,Antofagasta,Ollagüe,zona fría;zona rural
+Distribuidora Comunal,4,0,Magallanes,Laguna Blanca,zona fría;zona rural
+Distribuidora Comunal,4,0,Maule,Retiro,zona rural;zona seca
+Distribuidora Comunal,9,0,Los Ríos,Los Lagos,zona rural;zona fría
+Distribuidora Comunal,9,0,Antofagasta,San Pedro de Atacama,zona rural;zona fría
+Distribuidora Comunal,10,0,Maule,Rauco,zona seca;zona fría
+Casa,5,0,Antofagasta,Ollagüe,poco habitado;medidor nuevo
+Casa,7,0,Antofagasta,Ollagüe,poco habitado;medidor nuevo
+Casa,7,0,Antofagasta,Ollagüe,medidor nuevo;auto eléctrico
+Casa,5,0,Araucanía,Cunco,medidor nuevo;auto eléctrico
+Casa,8,0,Magallanes,Laguna Blanca,medidor nuevo;auto eléctrico
+Casa,3,0,Los Ríos,Valdivia,poco habitado;medidor nuevo
+Casa,4,0,Maule,Rauco,auto eléctrico;poco habitado
+Casa,7,0,Los Ríos,Mariquina,medidor nuevo;poco habitado
+Casa,4,0,Maule,Retiro,auto eléctrico;medidor nuevo
+Casa,8,0,Maule,Retiro,poco habitado;auto eléctrico
+Casa,3,0,Los Ríos,Mariquina,medidor nuevo;poco habitado
+Casa,10,0,Los Ríos,Corral,medidor nuevo;auto eléctrico
+Casa,3,0,Los Ríos,Corral,poco habitado;auto eléctrico
+Casa,10,0,Maule,Yerbas Buenas,medidor nuevo;auto eléctrico
+Casa,2,0,Antofagasta,San Pedro de Atacama,auto eléctrico;poco habitado
+Casa,1,0,Los Ríos,Los Lagos,poco habitado;auto eléctrico
+Casa,6,0,Araucanía,Angol,auto eléctrico;medidor nuevo
+Casa,8,0,Maule,Yerbas Buenas,medidor nuevo;poco habitado
+Casa,2,0,Maule,Parral,poco habitado;medidor nuevo
+Casa,0,0,Araucanía,Cunco,auto eléctrico;poco habitado
+Casa,5,0,Los Ríos,Mariquina,poco habitado;medidor nuevo
+Casa,7,0,Los Ríos,Los Lagos,auto eléctrico;medidor nuevo
+Casa,2,0,Los Ríos,Valdivia,auto eléctrico;poco habitado
+Casa,9,0,Araucanía,Angol,auto eléctrico;medidor nuevo
+Casa,2,0,Araucanía,Lumaco,poco habitado;auto eléctrico
+Casa,10,0,Magallanes,Primavera,poco habitado;medidor nuevo
+Casa,8,0,Magallanes,Río Verde,medidor nuevo;auto eléctrico
+Casa,10,0,Maule,Romeral,poco habitado;medidor nuevo
+Casa,2,0,Los Ríos,Mariquina,poco habitado;auto eléctrico
+Casa,7,0,Magallanes,Primavera,medidor nuevo;poco habitado
+Casa,4,0,Maule,Parral,medidor nuevo;auto eléctrico
+Casa,7,0,Antofagasta,Sierra Gorda,medidor nuevo;poco habitado
+Casa,6,0,Maule,Parral,auto eléctrico;poco habitado
+Casa,1,0,Maule,Romeral,medidor nuevo;poco habitado
+Casa,10,0,Maule,Parral,medidor nuevo;poco habitado
+Casa,7,0,Maule,Romeral,poco habitado;auto eléctrico
+Casa,3,0,Magallanes,Río Verde,poco habitado;auto eléctrico
+Casa,0,0,Antofagasta,Sierra Gorda,auto eléctrico;poco habitado
+Casa,3,0,Antofagasta,Ollagüe,auto eléctrico;medidor nuevo
+Casa,2,0,Antofagasta,San Pedro de Atacama,poco habitado;auto eléctrico
+Casa,5,0,Araucanía,Cunco,poco habitado;medidor nuevo
+Casa,5,0,Magallanes,Río Verde,auto eléctrico;poco habitado
+Casa,4,0,Araucanía,Angol,medidor nuevo;poco habitado
+Casa,6,0,Araucanía,Lumaco,auto eléctrico;medidor nuevo
+Casa,5,0,Antofagasta,San Pedro de Atacama,medidor nuevo;auto eléctrico
+Casa,10,0,Los Ríos,Valdivia,poco habitado;auto eléctrico
+Casa,4,0,Araucanía,Lumaco,poco habitado;medidor nuevo
+Casa,8,0,Maule,Parral,poco habitado;auto eléctrico
+Casa,0,0,Antofagasta,Ollagüe,medidor nuevo;auto eléctrico
+Casa,7,0,Maule,Yerbas Buenas,auto eléctrico;poco habitado
+Casa,5,0,Araucanía,Angol,poco habitado;medidor nuevo
+Casa,2,0,Magallanes,Laguna Blanca,auto eléctrico;poco habitado
+Casa,10,0,Antofagasta,San Pedro de Atacama,medidor nuevo;poco habitado
+Casa,10,0,Maule,Rauco,medidor nuevo;poco habitado
+Casa,1,0,Antofagasta,Sierra Gorda,auto eléctrico;poco habitado
+Casa,0,0,Maule,Yerbas Buenas,poco habitado;auto eléctrico
+Casa,8,0,Maule,Yerbas Buenas,medidor nuevo;poco habitado
+Casa,6,0,Los Ríos,Los Lagos,poco habitado;auto eléctrico
+Casa,9,0,Magallanes,Laguna Blanca,poco habitado;auto eléctrico
+Casa,0,0,Los Ríos,Valdivia,poco habitado;auto eléctrico
+Casa,2,0,Araucanía,Angol,medidor nuevo;poco habitado
+Casa,10,0,Los Ríos,Mariquina,medidor nuevo;auto eléctrico
+Casa,0,0,Araucanía,Lumaco,auto eléctrico;medidor nuevo
+Casa,0,0,Magallanes,Primavera,auto eléctrico;poco habitado
+Casa,7,0,Antofagasta,San Pedro de Atacama,poco habitado;medidor nuevo
+Casa,6,0,Maule,Retiro,auto eléctrico;medidor nuevo
+Casa,0,0,Araucanía,Lumaco,medidor nuevo;auto eléctrico
+Casa,2,0,Maule,Retiro,poco habitado;auto eléctrico
+Casa,6,0,Los Ríos,Corral,medidor nuevo;poco habitado
+Casa,3,0,Araucanía,Cunco,auto eléctrico;poco habitado
+Casa,6,0,Maule,Rauco,poco habitado;medidor nuevo

@@ -1,0 +1,35 @@
+Generadora,3,500,Atacama,Freirina,Generador de Emergencia;asislantes
+Distribuidora Regional,8,0,Los Lagos,Queilén,construccion;zona fría
+Distribuidora Regional,2,0,Aysén,Chile Chico,zona seca
+Distribuidora Comunal,6,0,Los Lagos,Quemchi,zona rural;zona seca
+Distribuidora Comunal,1,0,Aysén,O'Higgins,zona seca
+Distribuidora Comunal,4,0,Los Lagos,Chaitén,zona fría
+Distribuidora Comunal,4,0,Aysén,Tortel,zona seca
+Distribuidora Comunal,4,0,Aysén,Coyhaique,zona seca;zona rural
+Distribuidora Comunal,7,0,Los Lagos,Los Muermos,zona fría
+Distribuidora Comunal,1,0,Los Lagos,Llanquihue,zona fría;zona seca
+Distribuidora Comunal,1,0,Aysén,Chile Chico,zona fría;zona rural
+Distribuidora Comunal,4,0,Los Lagos,Purranque,zona seca
+Casa,9,0,Los Lagos,Los Muermos,auto eléctrico
+Casa,1,0,Aysén,Tortel,poco habitado
+Casa,8,0,Los Lagos,Purranque,medidor nuevo;poco habitado
+Casa,9,0,Los Lagos,Purranque,poco habitado
+Casa,4,0,Aysén,Tortel,medidor nuevo;auto eléctrico
+Casa,8,0,Aysén,Chile Chico,poco habitado;medidor nuevo
+Casa,8,0,Los Lagos,Quemchi,medidor nuevo;poco habitado
+Casa,5,0,Aysén,Coyhaique,medidor nuevo
+Casa,8,0,Los Lagos,Chaitén,auto eléctrico
+Casa,3,0,Aysén,Coyhaique,auto eléctrico
+Casa,1,0,Aysén,O'Higgins,auto eléctrico;poco habitado
+Casa,9,0,Los Lagos,Los Muermos,poco habitado
+Casa,9,0,Aysén,Coyhaique,auto eléctrico;medidor nuevo
+Casa,5,0,Los Lagos,Purranque,medidor nuevo
+Casa,1,0,Los Lagos,Llanquihue,poco habitado
+Casa,7,0,Los Lagos,Chaitén,auto eléctrico
+Casa,5,0,Los Lagos,Chaitén,poco habitado;medidor nuevo
+Casa,8,0,Los Lagos,Los Muermos,auto eléctrico;medidor nuevo
+Casa,5,0,Los Lagos,Llanquihue,poco habitado;auto eléctrico
+Casa,6,0,Aysén,O'Higgins,auto eléctrico;medidor nuevo
+Casa,9,0,Los Lagos,Llanquihue,medidor nuevo
+Casa,2,0,Aysén,Chile Chico,medidor nuevo
+Casa,2,0,Los Lagos,Quemchi,poco habitado

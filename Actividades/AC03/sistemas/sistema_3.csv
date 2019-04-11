@@ -1,0 +1,286 @@
+Generadora,0,3516,Antofagasta,Sierra Gorda,turbina eólica;asislantes;Generador de Emergencia
+Distribuidora Regional,0,0,Magallanes,Primavera,construccion;zona seca;zona fría
+Distribuidora Regional,7,0,Maule,Teno,construccion;zona seca;zona fría
+Distribuidora Regional,1,0,Atacama,Tierra Amarilla,construccion;zona seca;zona fría
+Distribuidora Regional,0,0,Tarapacá,Alto Hospicio,zona fría;construccion;zona seca
+Distribuidora Regional,3,0,Antofagasta,San Pedro de Atacama,construccion;zona seca;zona fría
+Distribuidora Regional,10,0,O'Higgins,Pichilemu,zona seca;construccion;zona fría
+Distribuidora Regional,0,0,Aysén,Cochrane,zona fría;construccion;zona seca
+Distribuidora Regional,0,0,Biobío,Los Álamos,construccion;zona seca;zona fría
+Distribuidora Regional,2,0,Santiago,San José de Maipo,zona seca;zona fría;construccion
+Distribuidora Comunal,10,0,Magallanes,Río Verde,zona seca;zona rural;zona fría
+Distribuidora Comunal,0,0,Tarapacá,Colchane,zona seca;zona rural;zona fría
+Distribuidora Comunal,5,0,Aysén,Cisnes,zona fría;zona seca;zona rural
+Distribuidora Comunal,3,0,Atacama,Diego de Almagro,zona fría;zona rural;zona seca
+Distribuidora Comunal,4,0,Santiago,Til Til,zona fría;zona rural;zona seca
+Distribuidora Comunal,9,0,Antofagasta,San Pedro de Atacama,zona rural;zona fría;zona seca
+Distribuidora Comunal,8,0,Atacama,Huasco,zona fría;zona seca;zona rural
+Distribuidora Comunal,5,0,Aysén,Chile Chico,zona rural;zona fría;zona seca
+Distribuidora Comunal,8,0,Biobío,Los Álamos,zona rural;zona fría;zona seca
+Distribuidora Comunal,8,0,Aysén,Guaitecas,zona fría;zona rural;zona seca
+Distribuidora Comunal,9,0,Magallanes,Laguna Blanca,zona seca;zona rural;zona fría
+Distribuidora Comunal,8,0,Santiago,San Ramón,zona fría;zona rural;zona seca
+Distribuidora Comunal,3,0,Aysén,Cochrane,zona rural;zona fría;zona seca
+Distribuidora Comunal,5,0,Biobío,Cañete,zona fría;zona rural;zona seca
+Distribuidora Comunal,10,0,Tarapacá,Iquique,zona seca;zona rural;zona fría
+Distribuidora Comunal,7,0,Tarapacá,Huara,zona seca;zona fría;zona rural
+Distribuidora Comunal,1,0,Aysén,O'Higgins,zona fría;zona seca;zona rural
+Distribuidora Comunal,3,0,Atacama,Caldera,zona rural;zona seca;zona fría
+Distribuidora Comunal,9,0,Magallanes,San Gregorio,zona fría;zona rural;zona seca
+Distribuidora Comunal,5,0,Maule,Licantén,zona rural;zona seca;zona fría
+Distribuidora Comunal,9,0,Santiago,San Joaquín,zona fría;zona rural;zona seca
+Distribuidora Comunal,1,0,Antofagasta,Taltal,zona seca;zona fría;zona rural
+Distribuidora Comunal,10,0,Biobío,Lebu,zona rural;zona seca;zona fría
+Distribuidora Comunal,8,0,O'Higgins,Navidad,zona seca;zona rural;zona fría
+Distribuidora Comunal,4,0,Antofagasta,Antofagaste,zona seca;zona fría;zona rural
+Distribuidora Comunal,7,0,Biobío,Yumbel,zona fría;zona seca;zona rural
+Distribuidora Comunal,2,0,Aysén,Río Ibañez,zona seca;zona rural;zona fría
+Distribuidora Comunal,8,0,O'Higgins,Pichidegua,zona rural;zona fría;zona seca
+Distribuidora Comunal,8,0,Tarapacá,Pica,zona rural;zona seca;zona fría
+Distribuidora Comunal,1,0,O'Higgins,Chimbarongo,zona fría;zona seca;zona rural
+Distribuidora Comunal,10,0,Maule,Molina,zona seca;zona rural;zona fría
+Distribuidora Comunal,10,0,Antofagasta,Tocopilla,zona fría;zona rural;zona seca
+Distribuidora Comunal,2,0,Maule,Cauquenes,zona seca;zona rural;zona fría
+Distribuidora Comunal,7,0,Biobío,Talcahuano,zona fría;zona seca;zona rural
+Distribuidora Comunal,3,0,Atacama,Chañaral,zona fría;zona rural;zona seca
+Distribuidora Comunal,8,0,Aysén,Lago Verde,zona fría;zona rural;zona seca
+Distribuidora Comunal,5,0,Biobío,Quilaco,zona seca;zona rural;zona fría
+Distribuidora Comunal,3,0,O'Higgins,Marchihue,zona seca;zona rural;zona fría
+Distribuidora Comunal,2,0,Magallanes,Antártica,zona rural;zona seca;zona fría
+Distribuidora Comunal,5,0,Antofagasta,Calama,zona rural;zona seca;zona fría
+Distribuidora Comunal,2,0,Santiago,El Monte,zona rural;zona seca;zona fría
+Distribuidora Comunal,1,0,O'Higgins,Coinco,zona fría;zona rural;zona seca
+Distribuidora Comunal,6,0,Biobío,Alto Biobío,zona seca;zona rural;zona fría
+Distribuidora Comunal,10,0,Magallanes,Punta Arenas,zona fría;zona seca;zona rural
+Distribuidora Comunal,5,0,O'Higgins,Litueche,zona fría;zona seca;zona rural
+Distribuidora Comunal,7,0,Biobío,Coronel,zona seca;zona fría;zona rural
+Casa,6,0,Aysén,Lago Verde,medidor nuevo;auto eléctrico;poco habitado
+Casa,2,0,O'Higgins,Pichidegua,medidor nuevo;auto eléctrico;poco habitado
+Casa,0,0,Santiago,San Ramón,poco habitado;auto eléctrico;medidor nuevo
+Casa,8,0,Tarapacá,Iquique,auto eléctrico;poco habitado;medidor nuevo
+Casa,5,0,O'Higgins,Navidad,medidor nuevo;auto eléctrico;poco habitado
+Casa,1,0,Atacama,Diego de Almagro,medidor nuevo;auto eléctrico;poco habitado
+Casa,8,0,Biobío,Lebu,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Atacama,Diego de Almagro,poco habitado;medidor nuevo;auto eléctrico
+Casa,5,0,Santiago,Til Til,medidor nuevo;auto eléctrico;poco habitado
+Casa,10,0,Santiago,San Joaquín,auto eléctrico;medidor nuevo;poco habitado
+Casa,1,0,Antofagasta,Antofagaste,auto eléctrico;medidor nuevo;poco habitado
+Casa,9,0,Antofagasta,San Pedro de Atacama,medidor nuevo;auto eléctrico;poco habitado
+Casa,10,0,Antofagasta,Taltal,auto eléctrico;medidor nuevo;poco habitado
+Casa,9,0,Magallanes,Río Verde,medidor nuevo;poco habitado;auto eléctrico
+Casa,7,0,Aysén,Chile Chico,medidor nuevo;auto eléctrico;poco habitado
+Casa,9,0,Biobío,Yumbel,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Santiago,El Monte,poco habitado;auto eléctrico;medidor nuevo
+Casa,4,0,Aysén,O'Higgins,auto eléctrico;medidor nuevo;poco habitado
+Casa,2,0,Aysén,Cisnes,medidor nuevo;auto eléctrico;poco habitado
+Casa,9,0,Antofagasta,San Pedro de Atacama,auto eléctrico;poco habitado;medidor nuevo
+Casa,0,0,Antofagasta,Taltal,auto eléctrico;medidor nuevo;poco habitado
+Casa,5,0,Biobío,Quilaco,medidor nuevo;poco habitado;auto eléctrico
+Casa,6,0,Antofagasta,Antofagaste,poco habitado;medidor nuevo;auto eléctrico
+Casa,3,0,Biobío,Los Álamos,poco habitado;medidor nuevo;auto eléctrico
+Casa,0,0,O'Higgins,Pichidegua,auto eléctrico;medidor nuevo;poco habitado
+Casa,0,0,Tarapacá,Huara,auto eléctrico;poco habitado;medidor nuevo
+Casa,4,0,Biobío,Cañete,poco habitado;auto eléctrico;medidor nuevo
+Casa,9,0,Atacama,Diego de Almagro,auto eléctrico;medidor nuevo;poco habitado
+Casa,2,0,Magallanes,Laguna Blanca,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,O'Higgins,Pichidegua,poco habitado;auto eléctrico;medidor nuevo
+Casa,10,0,Aysén,Lago Verde,poco habitado;auto eléctrico;medidor nuevo
+Casa,4,0,Maule,Licantén,medidor nuevo;auto eléctrico;poco habitado
+Casa,1,0,O'Higgins,Navidad,poco habitado;medidor nuevo;auto eléctrico
+Casa,5,0,Maule,Licantén,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Santiago,El Monte,medidor nuevo;auto eléctrico;poco habitado
+Casa,3,0,O'Higgins,Chimbarongo,medidor nuevo;poco habitado;auto eléctrico
+Casa,6,0,Santiago,Til Til,poco habitado;auto eléctrico;medidor nuevo
+Casa,2,0,O'Higgins,Chimbarongo,poco habitado;medidor nuevo;auto eléctrico
+Casa,0,0,Magallanes,Laguna Blanca,auto eléctrico;poco habitado;medidor nuevo
+Casa,5,0,Magallanes,Río Verde,auto eléctrico;poco habitado;medidor nuevo
+Casa,9,0,Santiago,San Ramón,poco habitado;auto eléctrico;medidor nuevo
+Casa,3,0,O'Higgins,Navidad,medidor nuevo;auto eléctrico;poco habitado
+Casa,7,0,Maule,Molina,auto eléctrico;poco habitado;medidor nuevo
+Casa,5,0,Aysén,Río Ibañez,poco habitado;auto eléctrico;medidor nuevo
+Casa,10,0,Atacama,Caldera,poco habitado;medidor nuevo;auto eléctrico
+Casa,10,0,O'Higgins,Marchihue,poco habitado;auto eléctrico;medidor nuevo
+Casa,0,0,Magallanes,San Gregorio,auto eléctrico;medidor nuevo;poco habitado
+Casa,6,0,O'Higgins,Litueche,auto eléctrico;poco habitado;medidor nuevo
+Casa,2,0,Tarapacá,Colchane,poco habitado;medidor nuevo;auto eléctrico
+Casa,4,0,Antofagasta,Taltal,poco habitado;auto eléctrico;medidor nuevo
+Casa,5,0,Magallanes,Laguna Blanca,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Antofagasta,Taltal,poco habitado;auto eléctrico;medidor nuevo
+Casa,9,0,Tarapacá,Colchane,medidor nuevo;auto eléctrico;poco habitado
+Casa,5,0,Maule,Licantén,medidor nuevo;poco habitado;auto eléctrico
+Casa,5,0,O'Higgins,Litueche,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,Biobío,Talcahuano,medidor nuevo;auto eléctrico;poco habitado
+Casa,4,0,Santiago,Til Til,auto eléctrico;poco habitado;medidor nuevo
+Casa,7,0,Atacama,Caldera,medidor nuevo;poco habitado;auto eléctrico
+Casa,9,0,Antofagasta,Antofagaste,auto eléctrico;poco habitado;medidor nuevo
+Casa,8,0,Aysén,Lago Verde,auto eléctrico;medidor nuevo;poco habitado
+Casa,8,0,Santiago,El Monte,poco habitado;auto eléctrico;medidor nuevo
+Casa,7,0,Antofagasta,Antofagaste,medidor nuevo;auto eléctrico;poco habitado
+Casa,7,0,Biobío,Yumbel,medidor nuevo;auto eléctrico;poco habitado
+Casa,1,0,Aysén,Río Ibañez,poco habitado;medidor nuevo;auto eléctrico
+Casa,10,0,Antofagasta,Calama,poco habitado;auto eléctrico;medidor nuevo
+Casa,4,0,Antofagasta,San Pedro de Atacama,medidor nuevo;poco habitado;auto eléctrico
+Casa,10,0,Magallanes,Río Verde,poco habitado;medidor nuevo;auto eléctrico
+Casa,8,0,O'Higgins,Marchihue,poco habitado;auto eléctrico;medidor nuevo
+Casa,9,0,O'Higgins,Navidad,auto eléctrico;medidor nuevo;poco habitado
+Casa,2,0,Biobío,Alto Biobío,auto eléctrico;medidor nuevo;poco habitado
+Casa,7,0,Magallanes,Antártica,medidor nuevo;auto eléctrico;poco habitado
+Casa,3,0,Aysén,O'Higgins,medidor nuevo;auto eléctrico;poco habitado
+Casa,5,0,Biobío,Quilaco,auto eléctrico;poco habitado;medidor nuevo
+Casa,10,0,Biobío,Coronel,auto eléctrico;poco habitado;medidor nuevo
+Casa,9,0,Santiago,San Joaquín,poco habitado;auto eléctrico;medidor nuevo
+Casa,2,0,Maule,Molina,poco habitado;auto eléctrico;medidor nuevo
+Casa,5,0,Antofagasta,Calama,poco habitado;medidor nuevo;auto eléctrico
+Casa,9,0,Aysén,O'Higgins,auto eléctrico;poco habitado;medidor nuevo
+Casa,4,0,Atacama,Chañaral,poco habitado;medidor nuevo;auto eléctrico
+Casa,8,0,Biobío,Yumbel,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Magallanes,Punta Arenas,auto eléctrico;poco habitado;medidor nuevo
+Casa,4,0,Antofagasta,Antofagaste,poco habitado;auto eléctrico;medidor nuevo
+Casa,5,0,Santiago,El Monte,auto eléctrico;medidor nuevo;poco habitado
+Casa,3,0,Aysén,Cochrane,poco habitado;auto eléctrico;medidor nuevo
+Casa,2,0,Maule,Licantén,auto eléctrico;poco habitado;medidor nuevo
+Casa,6,0,Aysén,Cisnes,poco habitado;auto eléctrico;medidor nuevo
+Casa,4,0,Tarapacá,Colchane,poco habitado;medidor nuevo;auto eléctrico
+Casa,3,0,Biobío,Talcahuano,auto eléctrico;medidor nuevo;poco habitado
+Casa,7,0,Tarapacá,Huara,medidor nuevo;auto eléctrico;poco habitado
+Casa,3,0,Tarapacá,Pica,poco habitado;auto eléctrico;medidor nuevo
+Casa,1,0,Atacama,Diego de Almagro,auto eléctrico;poco habitado;medidor nuevo
+Casa,5,0,Tarapacá,Huara,medidor nuevo;poco habitado;auto eléctrico
+Casa,4,0,Tarapacá,Colchane,poco habitado;auto eléctrico;medidor nuevo
+Casa,7,0,Aysén,Río Ibañez,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,Biobío,Lebu,auto eléctrico;poco habitado;medidor nuevo
+Casa,7,0,Aysén,O'Higgins,auto eléctrico;medidor nuevo;poco habitado
+Casa,3,0,Aysén,Chile Chico,auto eléctrico;poco habitado;medidor nuevo
+Casa,1,0,Atacama,Chañaral,poco habitado;medidor nuevo;auto eléctrico
+Casa,9,0,Biobío,Alto Biobío,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,O'Higgins,Coinco,auto eléctrico;poco habitado;medidor nuevo
+Casa,6,0,Magallanes,Punta Arenas,medidor nuevo;auto eléctrico;poco habitado
+Casa,4,0,Tarapacá,Iquique,medidor nuevo;auto eléctrico;poco habitado
+Casa,10,0,Santiago,San Joaquín,medidor nuevo;auto eléctrico;poco habitado
+Casa,3,0,Tarapacá,Iquique,poco habitado;auto eléctrico;medidor nuevo
+Casa,7,0,Aysén,Cisnes,poco habitado;medidor nuevo;auto eléctrico
+Casa,10,0,O'Higgins,Pichidegua,poco habitado;medidor nuevo;auto eléctrico
+Casa,4,0,Maule,Cauquenes,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,Aysén,Chile Chico,medidor nuevo;auto eléctrico;poco habitado
+Casa,1,0,Tarapacá,Iquique,poco habitado;medidor nuevo;auto eléctrico
+Casa,7,0,Tarapacá,Pica,poco habitado;medidor nuevo;auto eléctrico
+Casa,1,0,Aysén,Guaitecas,poco habitado;auto eléctrico;medidor nuevo
+Casa,1,0,Antofagasta,Tocopilla,poco habitado;auto eléctrico;medidor nuevo
+Casa,10,0,O'Higgins,Chimbarongo,poco habitado;auto eléctrico;medidor nuevo
+Casa,10,0,O'Higgins,Coinco,auto eléctrico;medidor nuevo;poco habitado
+Casa,2,0,Biobío,Cañete,poco habitado;medidor nuevo;auto eléctrico
+Casa,10,0,Santiago,San Joaquín,medidor nuevo;poco habitado;auto eléctrico
+Casa,5,0,Aysén,Chile Chico,medidor nuevo;auto eléctrico;poco habitado
+Casa,8,0,Biobío,Cañete,poco habitado;auto eléctrico;medidor nuevo
+Casa,9,0,O'Higgins,Pichidegua,auto eléctrico;medidor nuevo;poco habitado
+Casa,8,0,Magallanes,Punta Arenas,medidor nuevo;auto eléctrico;poco habitado
+Casa,10,0,Biobío,Alto Biobío,poco habitado;auto eléctrico;medidor nuevo
+Casa,4,0,O'Higgins,Litueche,medidor nuevo;poco habitado;auto eléctrico
+Casa,5,0,Magallanes,Antártica,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Biobío,Yumbel,medidor nuevo;auto eléctrico;poco habitado
+Casa,9,0,Aysén,Lago Verde,poco habitado;auto eléctrico;medidor nuevo
+Casa,2,0,Santiago,San Joaquín,medidor nuevo;auto eléctrico;poco habitado
+Casa,10,0,Santiago,El Monte,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,Biobío,Cañete,medidor nuevo;poco habitado;auto eléctrico
+Casa,3,0,Magallanes,Río Verde,medidor nuevo;poco habitado;auto eléctrico
+Casa,3,0,Aysén,Cochrane,medidor nuevo;auto eléctrico;poco habitado
+Casa,2,0,O'Higgins,Marchihue,poco habitado;auto eléctrico;medidor nuevo
+Casa,5,0,Tarapacá,Colchane,auto eléctrico;poco habitado;medidor nuevo
+Casa,1,0,O'Higgins,Coinco,medidor nuevo;poco habitado;auto eléctrico
+Casa,0,0,Aysén,Cochrane,poco habitado;auto eléctrico;medidor nuevo
+Casa,2,0,Aysén,Río Ibañez,medidor nuevo;auto eléctrico;poco habitado
+Casa,0,0,Aysén,Cisnes,auto eléctrico;medidor nuevo;poco habitado
+Casa,6,0,Aysén,Cochrane,poco habitado;medidor nuevo;auto eléctrico
+Casa,0,0,Aysén,O'Higgins,medidor nuevo;poco habitado;auto eléctrico
+Casa,4,0,Biobío,Los Álamos,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Magallanes,San Gregorio,poco habitado;medidor nuevo;auto eléctrico
+Casa,6,0,Aysén,Cisnes,poco habitado;auto eléctrico;medidor nuevo
+Casa,10,0,Maule,Cauquenes,medidor nuevo;poco habitado;auto eléctrico
+Casa,8,0,Antofagasta,Calama,poco habitado;medidor nuevo;auto eléctrico
+Casa,9,0,O'Higgins,Litueche,poco habitado;medidor nuevo;auto eléctrico
+Casa,9,0,Maule,Cauquenes,auto eléctrico;poco habitado;medidor nuevo
+Casa,3,0,O'Higgins,Coinco,medidor nuevo;auto eléctrico;poco habitado
+Casa,0,0,Magallanes,Antártica,auto eléctrico;poco habitado;medidor nuevo
+Casa,10,0,Biobío,Lebu,medidor nuevo;auto eléctrico;poco habitado
+Casa,1,0,Biobío,Coronel,poco habitado;auto eléctrico;medidor nuevo
+Casa,8,0,O'Higgins,Marchihue,medidor nuevo;auto eléctrico;poco habitado
+Casa,2,0,Aysén,Guaitecas,auto eléctrico;medidor nuevo;poco habitado
+Casa,4,0,Tarapacá,Iquique,medidor nuevo;auto eléctrico;poco habitado
+Casa,5,0,Magallanes,Punta Arenas,poco habitado;auto eléctrico;medidor nuevo
+Casa,2,0,Magallanes,Río Verde,auto eléctrico;poco habitado;medidor nuevo
+Casa,0,0,Biobío,Quilaco,medidor nuevo;auto eléctrico;poco habitado
+Casa,4,0,Antofagasta,Tocopilla,poco habitado;auto eléctrico;medidor nuevo
+Casa,8,0,Antofagasta,San Pedro de Atacama,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Tarapacá,Pica,medidor nuevo;auto eléctrico;poco habitado
+Casa,0,0,Atacama,Huasco,auto eléctrico;poco habitado;medidor nuevo
+Casa,6,0,Atacama,Huasco,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Biobío,Coronel,auto eléctrico;medidor nuevo;poco habitado
+Casa,4,0,Magallanes,Punta Arenas,auto eléctrico;poco habitado;medidor nuevo
+Casa,3,0,Aysén,Guaitecas,poco habitado;auto eléctrico;medidor nuevo
+Casa,5,0,Biobío,Los Álamos,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Biobío,Quilaco,auto eléctrico;poco habitado;medidor nuevo
+Casa,8,0,Biobío,Los Álamos,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Maule,Molina,medidor nuevo;poco habitado;auto eléctrico
+Casa,5,0,O'Higgins,Marchihue,poco habitado;auto eléctrico;medidor nuevo
+Casa,3,0,Santiago,San Ramón,medidor nuevo;poco habitado;auto eléctrico
+Casa,4,0,O'Higgins,Navidad,medidor nuevo;auto eléctrico;poco habitado
+Casa,4,0,Antofagasta,Calama,poco habitado;medidor nuevo;auto eléctrico
+Casa,9,0,Atacama,Chañaral,auto eléctrico;medidor nuevo;poco habitado
+Casa,9,0,Aysén,Cochrane,medidor nuevo;auto eléctrico;poco habitado
+Casa,10,0,Maule,Cauquenes,auto eléctrico;poco habitado;medidor nuevo
+Casa,2,0,Atacama,Huasco,medidor nuevo;poco habitado;auto eléctrico
+Casa,2,0,Aysén,Guaitecas,poco habitado;medidor nuevo;auto eléctrico
+Casa,6,0,Magallanes,San Gregorio,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Biobío,Alto Biobío,poco habitado;medidor nuevo;auto eléctrico
+Casa,0,0,Biobío,Lebu,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Atacama,Caldera,medidor nuevo;poco habitado;auto eléctrico
+Casa,9,0,Antofagasta,Tocopilla,medidor nuevo;auto eléctrico;poco habitado
+Casa,8,0,Maule,Molina,auto eléctrico;medidor nuevo;poco habitado
+Casa,9,0,Santiago,Til Til,poco habitado;auto eléctrico;medidor nuevo
+Casa,8,0,O'Higgins,Coinco,auto eléctrico;medidor nuevo;poco habitado
+Casa,8,0,Biobío,Quilaco,auto eléctrico;poco habitado;medidor nuevo
+Casa,10,0,Tarapacá,Pica,medidor nuevo;auto eléctrico;poco habitado
+Casa,8,0,Santiago,Til Til,poco habitado;auto eléctrico;medidor nuevo
+Casa,10,0,Tarapacá,Huara,poco habitado;medidor nuevo;auto eléctrico
+Casa,5,0,Aysén,Río Ibañez,auto eléctrico;poco habitado;medidor nuevo
+Casa,2,0,Atacama,Diego de Almagro,medidor nuevo;poco habitado;auto eléctrico
+Casa,8,0,O'Higgins,Litueche,medidor nuevo;auto eléctrico;poco habitado
+Casa,0,0,Antofagasta,Calama,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,Tarapacá,Pica,auto eléctrico;medidor nuevo;poco habitado
+Casa,1,0,Biobío,Cañete,medidor nuevo;auto eléctrico;poco habitado
+Casa,5,0,Maule,Licantén,medidor nuevo;poco habitado;auto eléctrico
+Casa,6,0,Magallanes,Laguna Blanca,auto eléctrico;medidor nuevo;poco habitado
+Casa,3,0,Biobío,Yumbel,medidor nuevo;poco habitado;auto eléctrico
+Casa,4,0,Aysén,Guaitecas,auto eléctrico;medidor nuevo;poco habitado
+Casa,5,0,Biobío,Talcahuano,poco habitado;medidor nuevo;auto eléctrico
+Casa,10,0,O'Higgins,Chimbarongo,auto eléctrico;poco habitado;medidor nuevo
+Casa,4,0,Biobío,Talcahuano,auto eléctrico;poco habitado;medidor nuevo
+Casa,5,0,Magallanes,San Gregorio,medidor nuevo;auto eléctrico;poco habitado
+Casa,6,0,Antofagasta,Tocopilla,medidor nuevo;auto eléctrico;poco habitado
+Casa,5,0,Maule,Molina,poco habitado;auto eléctrico;medidor nuevo
+Casa,6,0,Biobío,Talcahuano,medidor nuevo;poco habitado;auto eléctrico
+Casa,1,0,Biobío,Coronel,poco habitado;medidor nuevo;auto eléctrico
+Casa,1,0,Magallanes,San Gregorio,poco habitado;medidor nuevo;auto eléctrico
+Casa,8,0,Tarapacá,Huara,poco habitado;auto eléctrico;medidor nuevo
+Casa,4,0,Biobío,Alto Biobío,auto eléctrico;poco habitado;medidor nuevo
+Casa,8,0,Antofagasta,San Pedro de Atacama,auto eléctrico;medidor nuevo;poco habitado
+Casa,9,0,Atacama,Huasco,auto eléctrico;medidor nuevo;poco habitado
+Casa,3,0,Magallanes,Antártica,poco habitado;auto eléctrico;medidor nuevo
+Casa,3,0,Atacama,Huasco,poco habitado;auto eléctrico;medidor nuevo
+Casa,9,0,Atacama,Chañaral,auto eléctrico;poco habitado;medidor nuevo
+Casa,9,0,Antofagasta,Tocopilla,medidor nuevo;poco habitado;auto eléctrico
+Casa,9,0,Santiago,San Ramón,auto eléctrico;poco habitado;medidor nuevo
+Casa,6,0,Magallanes,Laguna Blanca,poco habitado;medidor nuevo;auto eléctrico
+Casa,10,0,Magallanes,Antártica,medidor nuevo;auto eléctrico;poco habitado
+Casa,8,0,Maule,Cauquenes,poco habitado;medidor nuevo;auto eléctrico
+Casa,2,0,Atacama,Caldera,poco habitado;auto eléctrico;medidor nuevo
+Casa,5,0,Santiago,San Ramón,poco habitado;auto eléctrico;medidor nuevo
+Casa,0,0,Biobío,Coronel,poco habitado;auto eléctrico;medidor nuevo
+Casa,7,0,Atacama,Chañaral,medidor nuevo;poco habitado;auto eléctrico
+Casa,7,0,Aysén,Lago Verde,auto eléctrico;medidor nuevo;poco habitado
+Casa,6,0,Aysén,Chile Chico,auto eléctrico;poco habitado;medidor nuevo
+Casa,2,0,Biobío,Los Álamos,auto eléctrico;medidor nuevo;poco habitado
+Casa,10,0,Biobío,Lebu,medidor nuevo;poco habitado;auto eléctrico
+Casa,4,0,O'Higgins,Chimbarongo,poco habitado;medidor nuevo;auto eléctrico
+Casa,4,0,Atacama,Caldera,auto eléctrico;medidor nuevo;poco habitado
+Casa,6,0,Antofagasta,Taltal,poco habitado;medidor nuevo;auto eléctrico
