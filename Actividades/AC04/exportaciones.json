@@ -1,0 +1,28 @@
+{
+    "Albania": {
+        "Bélgica": "Oro",
+        "España": "Trigo"
+    },  
+    "Bélgica": {
+        "Dinamarca": "Oro",
+        "España": "Oro",
+        "Finlandia": "Carbón"
+    },  
+    "Dinamarca": {
+        "Albania": "Trigo",
+        "Bélgica": "Trigo"
+    }, 
+    "Estonia": {
+        "Bélgica": "Oro",
+        "Finlandia": "Oro"
+    },  
+    "España": {
+        "Bélgica": "Carbón",
+        "Albania": "Carbón",
+        "Dinamarca": "Trigo"
+    }, 
+    "Finlandia": {
+        "Estonia": "Carbón",
+        "Albania": "Trigo"
+    }
+}
