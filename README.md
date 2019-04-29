@@ -27,6 +27,7 @@
 # Recorrección
 
 Para recorregir alguna actividad, deben responder el siguiente [formulario](https://forms.gle/fZiG6D2yheDJzQeWA)
+
 Para recorregir la Tarea 1, deben responder el siguiente [formulario](https://forms.gle/HYjZyqAhNHXwxNKH6)
 
 # Foro
