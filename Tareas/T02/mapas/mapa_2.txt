@@ -1,9 +1,9 @@
 X X X X X X X X X X X X X X X X X X X X
 X O O X X X X O O X X X X O X X X X O X
 X O O O O O O O O O O O O O O O O O O X
-X C C C C C O O C C C C C C O X X X X X
 S C C C C C O O C C C C C C O X X X X X
-S O O O C C O O C C X X C C O X X X X X
+S C C C C C O O C C C C C C O X X X X X
+X O O O C C O O C C X X C C O X X X X X
 X O O X C C O O B B X X C C O X X X X X
 X O O X C C O O B B O O C C O O O O O X
 X O O X C C O O C C O O C C O O O O O X
