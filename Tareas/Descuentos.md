@@ -64,7 +64,7 @@ Si se encuentran malas prácticas en el código de la tarea, como el uso de prog
 ## De-descuento (5 décimas) :tada:
 
 Puedes restar máximo 5 décimas de tus descuentos, las condiciones para restar estas décimas de descuento es entregar un _readme.md_ que cumpla con:
-* Explicitarr cada ítem de la distribución del puntaje que no fueron implementados.
+* Explicitar cada ítem de la distribución del puntaje que no fueron implementados.
 * Explicitar posibles errores y su solución.
 * Especificar el archivo y línea donde se puede encontrar cada ítem de la distribución del puntaje que puede ser evaluado mediante la lectura de código.
 
