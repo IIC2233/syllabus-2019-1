@@ -59,7 +59,7 @@ Este descuento solo se aplica si en el enunciado de la tarea se especifica que *
 Dependiendo de cómo esté hecha la tarea, el ayudante se puede topar con múltiples inconvenientes que impidan la corrección de la tarea o le dificulten en gran medida la revisión de esta. Es por esto que puede aplicar el descuento que considere apropiado para la situación en la que se encuentre de ser justificado.
 
 ## Malas prácticas (5 décimas) :x:
-Si se encuentran malas prácticas en el código de la tarea, como el uso de programación circular, será penalizado. Cualquier duda con este descuento, haga una issue.
+Si se encuentran malas prácticas en el código de la tarea, como el uso de referencia circular, será penalizado. Cualquier duda con este descuento, haga una issue.
 
 ## De-descuento (5 décimas) :tada:
 
