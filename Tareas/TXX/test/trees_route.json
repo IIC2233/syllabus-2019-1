@@ -1,0 +1,20 @@
+[
+    {
+        "data": [4, 7, 15, 10, 11, 12],
+        "start_value": 11,
+        "end_value": 10,
+        "answer" : [11, 7, 10]
+    },
+    {
+        "data": [4, 7, 15, 10, 11, 12],
+        "start_value": 10,
+        "end_value": 15,
+        "answer" : [10, 7, 4, 12, 15]
+    },
+    {
+        "data": [4, 7, 15, 10, 11, 12],
+        "start_value": 4,
+        "end_value": 12,
+        "answer" : [4, 12]
+    }
+]
