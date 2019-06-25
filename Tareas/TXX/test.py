@@ -53,7 +53,7 @@ def test_search(tree_path: str, value: int, result, my_exception):
         search(tree_path, value)
         return False
     except my_exception as e:
-        if isinstance(my_exception, NotFoundValue):
+        if isinstance(my_exception, NotFoundFile):
             return tree_path == e.path
         elif isinstance(my_exception, InvalidTree):
             with open(tree_path) as file:
