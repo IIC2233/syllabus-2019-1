@@ -109,3 +109,4 @@ La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1
 |**K202 07-C**|gustavobarrezueta|Gustavo Adolfo Barrezueta|
 |**K202 07-E**|dmelberg|Deborah Milli Elberg|
 |**K202 07-G**|nbnavarro|Nicolas Baltazar Navarro|
+|**K202 07-H**|bmurtagh01|Brian Agustín Murtagh|
