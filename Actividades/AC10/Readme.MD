@@ -1,4 +1,4 @@
-## AC09
+## AC10 (Recuperativa)
 
 La asistencia aparecerá en [este link](https://docs.google.com/spreadsheets/d/1FgbE9eI2prrse7-LhYs4D2Ym87dIe23GXVtHN_rwRME/edit?usp=sharing). **Recuerda revisarla antes del término de la actividad recuperativa**.
 
