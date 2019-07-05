@@ -1,0 +1,17 @@
+{
+    "value": 90,
+    "left": {
+        "value": 4,
+        "left": {
+            "value": 5,
+            "left": "None",
+            "right": "None"
+        },
+        "right": "None"
+    },
+    "right": {
+        "value": 2,
+        "left": "None",
+        "right": "None"
+    }
+}
