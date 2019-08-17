@@ -8,8 +8,7 @@
 
 4. No contestar el formulario implica que están aceptando que se les corrija el _commit_ indicado en la _issue_ de la tarea en su repositorio privado. Se recomienda fuertemente revisar cual es dicho _commit_ y si no es el esperado, contestar el formulario.
 
-5.  El formulario estará abierto hasta las 20:05 del lunes y pueden contestarlo las veces que quieran con el nuevo _commit_ a corregir, se considerará la última respuesta enviada dentro del plazo como la definitiva.
-
+5.  El formulario estará abierto hasta las 20:05 del domingo y pueden contestarlo las veces que quieran con el nuevo _commit_ a corregir, se considerará la última respuesta enviada dentro del plazo como la definitiva.
 
 6.  Una vez cerrado el formulario, no se aceptan cambios en el _commit_ a corregir. Sea el indicado en el formulario o en la issue (para quienes no respondan). 
 
